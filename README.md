@@ -6,8 +6,7 @@
 </div>
  <img align="center" height="260" alt="coding-time" src="code.gif">
 <div  align="left"> 
-  <div style="display: inline_block"><br>
-   
+  <div style="display: inline_block">
     <h2 align="center">Melhores Tecnologias </h2>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
