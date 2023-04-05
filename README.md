@@ -5,9 +5,9 @@
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
-<div  align="left"> 
+<div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="center" height="250" alt="coding-time" src="code.gif">
+    <img align="left" height="250" alt="coding-time" src="code.gif">
     <h2 align="center">Melhores Tecnologias <3</h2>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
