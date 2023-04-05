@@ -5,7 +5,7 @@
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daxodev&layout=compact&langs_count=16&theme=algolia"/>
 </div>
  
-<div  align="right"> 
+<div  align="center"> 
   <div style="display: inline_block"><br>
     <div>
     <img align="left" height="260" alt="coding-time" src="code.gif">
