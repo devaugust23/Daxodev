@@ -6,7 +6,7 @@
 </div>
 <br>
 
-<div  align="center"> 
+<div  align="right"> 
   <div style="display: inline_block"><br>
     <img align="left" height="200" alt="coding-time" src="code.gif">
     <h2 align="center">Melhores Tecnologias <3</h2>
