@@ -4,8 +4,8 @@
   <img aling="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=Daxodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daxodev&layout=compact&langs_count=16&theme=algolia"/>
 </div>
- <img align="center" height="260" alt="coding-time" src="code.gif">
-<div  align="left"> 
+ <img align="left" height="260" alt="coding-time" src="code.gif">
+<div  align="right"> 
   <div style="display: inline_block">
     <h2 align="center">Melhores Tecnologias </h2>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
