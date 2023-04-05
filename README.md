@@ -2,7 +2,7 @@
 <div>
   
   <img aling="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=Daxodev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="85em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daxodev&layout=compact&langs_count=16&theme=github_dark"/>
+  <img align="right" height="105em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daxodev&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
 
 <div  align="center"> 
