@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div>
-    <img aling="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=Daxodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img aling="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=devaugust23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 </div>
  
